@@ -21,4 +21,3 @@ For questions regarding the assignments you can contact one of the following coa
 - Koushik Aravalli (koushik.aravalli@capgemini.com)
 - Roel van de Grint (roel.van-de-grint@capgemini.com)
 - Yusuf Yusuf (yusuf.yusuf@capgemini.com)
-
