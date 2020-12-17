@@ -16,6 +16,8 @@ The assignments are divided in three levels:
 2.	**Intermediate**. The goal here is that you can automate certain parts of the development process.
 3.	**Expert**. The goal here is that you build applications following best practices. You should master certain components and become a subject matter expert in it.
 
+Go check out the [challenges](https://github.com/capgemini-cloud-initiative/cloud-native-challenges/blob/main/challenges/index.md)!
+
 # Feedback
 For questions regarding the assignments you can contact one of the following coaches:
 - Koushik Aravalli (koushik.aravalli@capgemini.com)
